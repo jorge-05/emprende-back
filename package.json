@@ -1,0 +1,12 @@
+{
+  "name": "emprende-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jorge <jorgekantlv5555@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "-": "^0.0.1",
+    "nodemon": "^2.0.22"
+  }
+}
