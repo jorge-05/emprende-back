@@ -6,11 +6,14 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev":"nodemon index.js",
+    "dev": "nodemon index.js",
     "start": "node index.js"
   },
   "dependencies": {
     "-": "^0.0.1",
     "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
   }
 }
